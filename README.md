@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Bushite/Smooth-Feature-Lines-Extraction.svg?branch=master)]
+![Build Status](https://travis-ci.com/Bushite/Smooth-Feature-Lines-Extraction.svg?branch=master)
 # Smooth Feature Lines on Surface Meshes
 ## -- based on the paper by K. Hildebrandt, K. Polthier and M. Wardetzky
 > This is the final project for the course CSCI-GA-3033-018 
