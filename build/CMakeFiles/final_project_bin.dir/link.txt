@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/final_project_bin.dir/src/main.cpp.o  -o final_project_bin -framework OpenGL imgui/libimgui.a glfw/src/libglfw3.a -framework Cocoa -framework IOKit -framework CoreFoundation -framework CoreVideo glad/libglad.a 
