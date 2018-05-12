@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/NYUGeometricModeling/GM_Assignment_6.svg?branch=master)](https://travis-ci.org/NYUGeometricModeling/GM_Assignment_6)
+[![Build Status](https://travis-ci.com/Bushite/Smooth-Feature-Lines-Extraction.svg?branch=master)]
 # Smooth Feature Lines on Surface Meshes
 ## -- based on the paper by K. Hildebrandt, K. Polthier and M. Wardetzky
+> This is the final project for the course CSCI-GA-3033-018 
+Geometric Modeling at NYU
 
 ### Background
 Feature lines on a mesh carry the visually most prominent characteristics of the mesh. This paper introduces a way to detect the feature lines on a mesh based on utilizing discrete differential operators on piecewise linear meshes.
